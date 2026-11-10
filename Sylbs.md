@@ -14,7 +14,7 @@
 - [x] How websites and HTML documents work
 - [x] HTML elements, tags and attributes
 - [x] HTML document structure
-- [ ] `<!DOCTYPE html>`
+- [x] `<!DOCTYPE html>`
 - [ ] `<html>`, `<head>` and `<body>`
 - [ ] Headings: `h1` to `h6`
 - [ ] Paragraphs and line breaks
