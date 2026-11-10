@@ -18,7 +18,7 @@
 - [x] `<html>`, `<head>` and `<body>`
 - [x] Headings: `h1` to `h6`
 - [x] Paragraphs and line breaks
-- [ ] Comments
+- [x] Comments
 - [ ] Text formatting elements
 - [ ] HTML entities
 
