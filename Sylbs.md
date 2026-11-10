@@ -13,7 +13,7 @@
 - [x] What is HTML?
 - [x] How websites and HTML documents work
 - [x] HTML elements, tags and attributes
-- [ ] HTML document structure
+- [x] HTML document structure
 - [ ] `<!DOCTYPE html>`
 - [ ] `<html>`, `<head>` and `<body>`
 - [ ] Headings: `h1` to `h6`
