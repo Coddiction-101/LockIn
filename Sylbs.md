@@ -28,10 +28,10 @@
 - [x] Absolute and relative URLs
 - [x] Images and image attributes
 - [x] File paths and directory structure
-- [ ] Ordered lists
-- [ ] Unordered lists
-- [ ] Description lists
-- [ ] Nested lists
+- [x] Ordered lists
+- [x] Unordered lists
+- [x] Description lists
+- [x] Nested lists
 - [ ] HTML tables
 - [ ] Table headers, rows and cells
 - [ ] `colspan` and `rowspan`
