@@ -20,7 +20,7 @@
 - [x] Paragraphs and line breaks
 - [x] Comments
 - [x] Text formatting elements
-- [ ] HTML entities
+- [x] HTML entities
 
 **Phase 2: Working with Content**
 
