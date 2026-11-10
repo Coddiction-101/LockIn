@@ -16,7 +16,7 @@
 - [x] HTML document structure
 - [x] `<!DOCTYPE html>`
 - [x] `<html>`, `<head>` and `<body>`
-- [ ] Headings: `h1` to `h6`
+- [x] Headings: `h1` to `h6`
 - [ ] Paragraphs and line breaks
 - [ ] Comments
 - [ ] Text formatting elements
