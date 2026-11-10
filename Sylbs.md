@@ -19,7 +19,7 @@
 - [x] Headings: `h1` to `h6`
 - [x] Paragraphs and line breaks
 - [x] Comments
-- [ ] Text formatting elements
+- [x] Text formatting elements
 - [ ] HTML entities
 
 **Phase 2: Working with Content**
