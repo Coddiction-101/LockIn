@@ -24,7 +24,7 @@
 
 **Phase 2: Working with Content**
 
-- [ ] Links and anchor tags
+- [x] Links and anchor tags
 - [ ] Absolute and relative URLs
 - [ ] Images and image attributes
 - [ ] File paths and directory structure
