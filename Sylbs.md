@@ -11,7 +11,7 @@
 **Phase 1: Fundamentals**
 
 - [x] What is HTML?
-- [ ] How websites and HTML documents work
+- [x] How websites and HTML documents work
 - [ ] HTML elements, tags and attributes
 - [ ] HTML document structure
 - [ ] `<!DOCTYPE html>`
