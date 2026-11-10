@@ -26,7 +26,7 @@
 
 - [x] Links and anchor tags
 - [x] Absolute and relative URLs
-- [ ] Images and image attributes
+- [x] Images and image attributes
 - [ ] File paths and directory structure
 - [ ] Ordered lists
 - [ ] Unordered lists
