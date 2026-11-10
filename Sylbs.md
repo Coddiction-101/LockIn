@@ -15,7 +15,7 @@
 - [x] HTML elements, tags and attributes
 - [x] HTML document structure
 - [x] `<!DOCTYPE html>`
-- [ ] `<html>`, `<head>` and `<body>`
+- [x] `<html>`, `<head>` and `<body>`
 - [ ] Headings: `h1` to `h6`
 - [ ] Paragraphs and line breaks
 - [ ] Comments
